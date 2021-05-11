@@ -1,0 +1,56 @@
+Ejercicio 1:
+
+Algoritmo para preparar completo italiano.
+Entrada: Ir al supermercado, comprar insumos y buscar implementos para cocinar.
+Proceso: Abrir insumos, hervir las vienesas, picar tomates, moler palta, 
+abrir pan, agregar vienesa y otros insumos al pan.
+Salida: Completo listo para comer.
+
+Algoritmo para cambiar rueda
+Entrada: vehiculo, buscar implementos para cambio de neumatico.
+Proceso: posicionar vehiculo, poner gata, soltar tuercas, levantar el vehiculo con la gata,
+sacar tuercas, sacar neumatico, poner neumatico nuevo, apretar tuercas, bajar vehiculo, 
+sacar gata, guardar neumatico antiguo,guardar implementos.
+Salida: Neumatico cambiado.
+
+Ejercicio 2:
+
+Variable: 
+String:Variable de tipo cadena de texto
+Ej: 
+var Casa = "Mediterranea"; 
+var Raza = "Chica"; 
+var Color = "Rojo"; 
+var Ciudad = "Temuco"; 
+var Pais = "Chile";
+
+Ejercicio 3:
+
+rendimiento de vehiculo en km/lt
+ent-pr-sal-var-con 
+tipos de datos variables y constantes
+
+Entrada: (float) kilometros recorridos vehiculo, (float) consumo bencina vehiculo
+Proceso:division entre kilometros recorridos y consumo de vehiculo.
+Salida: (float)Rendimiento km/lt
+
+Ejercicio 4:
+
+Entrada: 
+
+string  Nombre
+string  direccion
+string  producto
+string  cantidad
+string  precio
+
+Proceso: 
+Buscar producto
+Elegir producto 
+Seleccionar cantidad a comprar 
+Seleccionar o ingresar direccion de despacho 
+Ingresar medio de pago 
+Realizar la transacción 
+
+Salida: 
+Boolean Compra aceptada o rechazada
