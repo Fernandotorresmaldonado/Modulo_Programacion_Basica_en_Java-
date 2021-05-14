@@ -1,0 +1,29 @@
+Ejercicio 1
+
+Entrada: Nota 1(float), nota 2(float), nota 3(float)
+Proceso: Suma ((nota 1(float) + nota 2(float) + nota 3(float) / 3)
+Salida: Promedio(float)
+
+Ejercicio 2
+
+Entrada: meses_2021(Int) + meses_2020(Int)
+Proceso: Suma de ultimos 6 meses 2021(Int) / 6 y 
+Suma de ultimos ultimos 6 meses 2020(Int), / 6.
+Promedio meses_2020 * 100 promedio meses_2021. Evaluar si diferencia
+corresponde a 20% o no.
+Salida: Diferencia de 20%, adjudicacion de bono.
+
+Ejercicio 3
+
+Servel: Votos, mesas
+Banco:personal, cuentas.
+Instagram:Contactos, seguidores
+
+Ejercicio 4
+proposiciones simples
+-Me gusta la cerveza
+-Tengo un auto	
+-Tengo casa
+-Yo camino
+-Tengo pareja
+-Tengo sueño
