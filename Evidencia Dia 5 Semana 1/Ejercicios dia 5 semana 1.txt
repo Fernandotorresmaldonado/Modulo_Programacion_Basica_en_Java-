@@ -1,0 +1,18 @@
+Ejercicio 1
+
+proposiciones compuestas
+-la pelota es redonda no cuadrada
+-Tengo un autoRojo y no un autoAzul
+-Es casa no departamento
+-caminoLento no caminoRapido
+-regionMetropolitana no es igual a regiondeValparaiso
+-el perro no es igual al gato
+
+Ejercicio 2
+1)F
+2)F
+3)V
+4)F
+5)V
+6)V
+
