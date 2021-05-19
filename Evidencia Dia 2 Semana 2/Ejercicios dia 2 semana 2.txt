@@ -1,0 +1,27 @@
+Ejemplo 1
+
+Funcion a:
+
+public class HolaMundo {
+
+    public static void main(String args[]) {
+        int numero_1 = 2;
+        int numero_2 = 5;
+
+        System.out.println("El resultado es " + (numero_1 + numero_2));
+
+    }
+}
+
+Funcion b:
+
+public class HolaMundo {
+
+    public static void main(String args[]) {
+        double numero_1 = 2;
+        double numero_2 = 5;
+
+        System.out.println("El resultado es " + (numero_1 + numero_2) / 2);
+
+    }
+}
