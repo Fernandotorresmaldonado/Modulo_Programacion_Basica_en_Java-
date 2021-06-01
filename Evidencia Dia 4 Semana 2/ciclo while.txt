@@ -1,0 +1,15 @@
+public class contar {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Ingrese un numero: ");
+		int n = sc.nextInt();
+		int contador = 1;
+		while(contador<=n) {
+			System.out.println(contador);
+			contador++;
+		}
+		sc.close();
+	
+	}
+}
